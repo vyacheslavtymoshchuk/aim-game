@@ -1,0 +1,2 @@
+# aim-game
+JavaScript Practice
